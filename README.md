@@ -16,8 +16,3 @@ The road to self-learning is long and long, only by constantly summarizing, cons
 Although there are still many shortcomings, I will continue to output and gradually improve it!
 
 If you find this project helpful, welcome to Stars! 
-***
-
-久绊联系方式：
-
-![微信图片_20230203102658](https://user-images.githubusercontent.com/123616755/216508480-2cb8dd77-6f2f-4808-ab52-b9597037418d.jpg)
