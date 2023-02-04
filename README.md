@@ -9,6 +9,8 @@
 
 如果你觉得本项目对你所有帮助，欢迎 Stars！ 
 
+***
+
 "Java Zero Basic Self-Learning" starts from the perspective of Xiaobai, through an easy-to-understand way, explains Java in detail, from 0 basic to proficient and program development needs to master the knowledge points, and easily understand the essence of Java program development, quickly improve development skills.
 
 The road to self-learning is long and long, only by constantly summarizing, constantly reminiscing, and constantly sharing, can we grow!
@@ -16,3 +18,4 @@ The road to self-learning is long and long, only by constantly summarizing, cons
 Although there are still many shortcomings, I will continue to output and gradually improve it!
 
 If you find this project helpful, welcome to Stars! 
+
