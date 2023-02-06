@@ -16,7 +16,7 @@
 public class Text{
     public static void main(String[] args) {
         int a=1; 				// 定义int类型变量a，并赋予初始值1
-        System.out.println(a); 	// 打印该变量的值
+        System.out.println(a); 	                // 打印该变量的值
     }
 }
 ```
@@ -27,9 +27,9 @@ public class Text{
 public class Text {
     public static void main(String[] args) {
         int a = 1; 				// 定义int类型变量a，并赋予初始值1
-        System.out.println(a); 	// 打印该变量的值
+        System.out.println(a); 	                // 打印该变量的值
         a = 2; 					// 重新赋值为2
-        System.out.println(a); 	// 打印该变量的值
+        System.out.println(a);           	// 打印该变量的值
     }
 }
 ```
@@ -40,19 +40,19 @@ public class Text {
 public class Text {
     public static void main(String[] args) {
         int a = 1; 				// 定义int类型变量a，并赋予初始值1
-        System.out.println(a); 	// 打印该变量的值
+        System.out.println(a); 	                // 打印该变量的值
         a = 2; 					// 重新赋值为2
-        System.out.println(a); 	// 打印该变量的值
-        int n=a;			    // 定义int类型变量n，并赋予初始值a
-        System.out.println(n);  // 打印该变量的值
+        System.out.println(a); 	                // 打印该变量的值
+        int n=a;			        // 定义int类型变量n，并赋予初始值a
+        System.out.println(n);                  // 打印该变量的值
     } 
 }
 ```
 
 ## 基本数据类型
-
+> 
 > Java语言提供了八种基本数据类型，六种数字类型（四个整数型，两个浮点型），一种字符类型，还有一种布尔型。
-
+> 
 | **基本数据类型**   | **默认值**  | **大小（字节）** | **取值范围**      | **示例**          |
 | ------------ | -------- | ---------- | ------------- | --------------- |
 | byte（位）      | 0        | 1          | -2^7—2^7-1   | byte a=10;      |
@@ -92,4 +92,49 @@ String s1 = "javaEE";
 String s2 = "javaEE";
 ```
 
-##
+## 变量值互换
+
+> 注意：代码是从右向左赋值
+
+```java
+int num1 = 19;
+int num2 = 89;
+int temp;
+temp = num1;
+num1 = num2;
+num2 = temp;
+System.out.println(num1 + "," + num2+","+temp);
+```
+
+## 从控制台输入
+
+```java
+先导入java.util包，语法：import java.util.Scanner;
+
+	第一步 创建从控制台输入对象
+	Scanner input = new Scanner(System.in);
+
+	第二步 提示语句
+	System.out.println("请输入你的年龄");
+
+	第三步 接受控制台的变量
+	int age = input.nextInt();
+
+	第四步 输出或使用
+	System.out.println("我的年龄是:"+age);
+
+	Scanner input = new Scanner(System.in);
+	System.out.println("请输入你的体重");
+	double weight = input.nextDouble();
+	System.out.println("我的体重是：" + weight);
+
+	Scanner input = new Scanner(System.in);
+	System.out.println("请输入你的姓名");
+	String name = input.next();
+	System.out.println("我的名字是：" + name);
+
+	Scanner input = new Scanner(System.in);
+	System.out.println("请输入你的性别");
+	char sex = input.next().charAt(0); 
+	System.out.println("我的性别是：" + sex);
+```
