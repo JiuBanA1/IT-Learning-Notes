@@ -7,5 +7,5 @@ The road to self-learning is long and long, only by constantly summarizing, cons
 
 Although there are still many shortcomings, I will continue to output and gradually improve it!
 
-If you find this project helpful, welcome to Stars! 
+If you find this project helpful, welcome Stars! 
 
