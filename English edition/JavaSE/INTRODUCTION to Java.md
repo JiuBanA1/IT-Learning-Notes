@@ -81,7 +81,7 @@
 - 2021-03,Java 16 
 - 2021-09,Java 17 
 - march 22, 2022 ,Java 18 
-- _ _october 17, 2022 _, _Java 19
+- october 17, 2022 , Java 19
 
 ---
 
