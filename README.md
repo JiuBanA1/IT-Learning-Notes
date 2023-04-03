@@ -9,3 +9,12 @@
 
 如果你觉得这个项目有帮助，欢迎Star!
 
+***
+From the perspective of Xiaobai, through an easy-to-understand way, Java is explained in detail, from zero foundation to proficient and the knowledge points that program development needs to master, and easily understand the essence of Java program development, and quickly improve development skills.
+
+The road to self-learning is long and long, only by constantly summarizing, constantly recalling, and constantly sharing, can we grow!
+
+Although there are still many shortcomings, I will continue to output and gradually improve!
+
+If you find this project helpful, welcome Star!
+
