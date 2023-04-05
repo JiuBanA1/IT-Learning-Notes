@@ -5,7 +5,7 @@
 #### 2. Importance of JDK 
 > without JDK, you cannot compile Java programs (java source code. java files). If you want to run only Java programs (class, jar, or other archive files).
 
-## II. How to choose JDK8 and JDK17 in Java?
+## II. How to choose JDK8 and JDK177 in Java?
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/33625181/1676983051679-4582e9b1-353c-42e5-aa54-6909fd3c10c6.png#averageHue=%23868d93&clientId=ua800d6e7-b375-4&from=paste&height=398&id=ue2515d1d&name=image.png&originHeight=597&originWidth=1079&originalType=binary&ratio=1.5&rotation=0&showTitle=false&size=701946&status=done&style=none&taskId=u3d09d143-de4e-4ec4-8a84-9ee8e1dfe3a&title=&width=719.3333333333334)
 #### 1. Stable JDK Version 
 > JDK has been updated. So far, JDK has three long-term support versions: JDK 8, JDK 11, and JDK 17.
