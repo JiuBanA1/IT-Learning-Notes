@@ -5,7 +5,7 @@
 #### 2. Importance of JDK 
 > without JDK, you cannot compile Java programs (java source code. java files). If you want to run only Java programs (class, jar, or other archive files).
 
-## II. How to choose JDK8 and JDK11 in Java?
+## II. How to choose JDK8 and JDK17 in Java?
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/33625181/1676983051679-4582e9b1-353c-42e5-aa54-6909fd3c10c6.png#averageHue=%23868d93&clientId=ua800d6e7-b375-4&from=paste&height=398&id=ue2515d1d&name=image.png&originHeight=597&originWidth=1079&originalType=binary&ratio=1.5&rotation=0&showTitle=false&size=701946&status=done&style=none&taskId=u3d09d143-de4e-4ec4-8a84-9ee8e1dfe3a&title=&width=719.3333333333334)
 #### 1. Stable JDK Version 
 > JDK has been updated. So far, JDK has three long-term support versions: JDK 8, JDK 11, and JDK 17.
@@ -17,8 +17,8 @@
 JDK8: 
 > JDK8, because compared with the previous JDK7 and JDK5, the ecology of JDK8 is very good, and developers are more comfortable to use than the previous versions. At the same time, JDK8 supports almost all the development functional requirements, and the design is relatively perfect. JDK8 is also the version with the longest maintenance support time so far.
 
-DK11: 
-> when using JDK8 to develop programs, there are always some drawbacks and many more requirements. Therefore, Oracle has gradually released another version of JDK11 that supports long-term update and maintenance. Compared with JDK8, there are many internal upgrades. However, JDK8 is still the mainstream.
+DK17: 
+> when using JDK8 to develop programs, there are always some drawbacks and many more requirements. Therefore, Oracle has gradually released another version of JDK17 that supports long-term update and maintenance. Compared with JDK8, there are many internal upgrades. However, JDK8 is still the mainstream.
 
 ## 3. What is the relationship between JDK and JRE?
 > JDK,Java Development Kit; JRE,Java runtime environment; A more popular explanation is that the software needs to be downloaded and installed as long as the Java program is developed. For developers, once the Java program is developed, it also needs to be run and tested. Therefore, JDK and JRE are an inclusion relationship.
