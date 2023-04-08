@@ -6,4 +6,4 @@
 *.sql linguist-language=Java
 *.uml linguist-language=Java 
 *.cmd linguist-language=Java 
-*.md linguist-language=.md
+*.md linguist-language=md
