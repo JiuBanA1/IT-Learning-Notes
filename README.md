@@ -15,4 +15,5 @@ Although there are still many shortcomings, I will continue to output and gradua
 If you find this project helpful, welcome Star!
 
 ## 目录
-![yuque_diagram](https://user-images.githubusercontent.com/123616755/233134922-e5508391-8803-472b-ae17-3bd56de41fb8.png)
+![Java零基础自学](https://user-images.githubusercontent.com/123616755/233139383-96e7303d-f1a6-4171-ae25-3ab85174ee2a.png)
+
