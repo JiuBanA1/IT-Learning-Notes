@@ -1,4 +1,4 @@
-# 《Java工程师学习指南》
+# 《Java开发进阶指南》
 
 [![](https://img.shields.io/github/issues/JiuBanA1/Java-Engineer-s-Study-Guide)](https://github.com/JiuBanA1/Java-Engineer-s-Study-Guide/issues) [![](https://img.shields.io/github/forks/JiuBanA1/Java-Engineer-s-Study-Guide)](https://github.com/JiuBanA1/Java-Engineer-s-Study-Guide/network) [![](https://img.shields.io/github/stars/JiuBanA1/Java-Engineer-s-Study-Guide)](https://github.com/JiuBanA1/Java-Engineer-s-Study-Guide/stargazers) 
 ## 前言
@@ -14,15 +14,6 @@ The road to self-learning is long and long, only by constantly summarizing, cons
 Although there are still many shortcomings, I will continue to output and gradually improve!
 
 If you find this project helpful, welcome Star!
-
-## 目录
-<details>
-<summary> 👉展开查看 </summary>
-
-![Java零基础自学](https://user-images.githubusercontent.com/123616755/233245728-1ad6a4e3-1a0e-4f2e-932b-859ff383cf3f.png)
-
-
-</details>
 
 ## Stargazers over time
 
