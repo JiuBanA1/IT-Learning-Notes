@@ -17,11 +17,14 @@ If you find this project helpful, welcome Star!
 
 ## 目录
 <details>
-<summary>展开查看</summary>
+<summary> 展开查看 </summary>
 
 ![Java零基础自学](https://user-images.githubusercontent.com/123616755/233141175-1cfeb346-7fb0-4504-b6b3-675b15cb3911.png)
 
 </details>
 
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/JiuBanA1/Java-Engineer-s-Study-Guide.svg)](https://starchart.cc/JiuBanA1/Java-Engineer-s-Study-Guide)
 
 
