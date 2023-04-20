@@ -1,5 +1,6 @@
 # 《Java工程师学习指南》
 
+[![](https://img.shields.io/github/issues/JiuBanA1/Java-Engineer-s-Study-Guide)](https://github.com/JiuBanA1/Java-Engineer-s-Study-Guide/issues) [![](https://img.shields.io/github/forks/JiuBanA1/Java-Engineer-s-Study-Guide)](https://github.com/JiuBanA1/Java-Engineer-s-Study-Guide/network) [![](https://img.shields.io/github/stars/JiuBanA1/Java-Engineer-s-Study-Guide)](https://github.com/JiuBanA1/Java-Engineer-s-Study-Guide/stargazers) 
 ## 前言
 
 自学之路漫长而漫长，只有不断总结，不断回忆，不断分享，才能成长!
