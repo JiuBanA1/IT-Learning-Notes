@@ -37,7 +37,7 @@ git init
 git clone 仓库URL
 //将 仓库URL 替换为你想要克隆的仓库的 URL。
 ```
-这里以github为例，找一个开源项目点**Code**，HTTPS下面的链接粘贴到执行上面命令的链接地址即可;
+这里以github为例，找一个开源项目点**Code**，HTTPS下面的链接粘贴到执行上面命令的链接地址即可。
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/33625181/1687159542365-1fae0abe-bc59-4df3-8f96-73ce8cfad7ed.png#averageHue=%23dbb380&clientId=u8c5280f2-7182-4&from=paste&height=713&id=u48865206&originHeight=1070&originWidth=1891&originalType=binary&ratio=1.5&rotation=0&showTitle=false&size=159710&status=done&style=none&taskId=u8412d76a-b0c7-49e4-aaa0-076977b04ee&title=&width=1260.6666666666667)
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/33625181/1687161515814-97eb29ba-54fa-43d4-9c34-a7ab31d006a3.png#averageHue=%230b0a09&clientId=u8c5280f2-7182-4&from=paste&height=339&id=uea0bdc95&originHeight=509&originWidth=899&originalType=binary&ratio=1.5&rotation=0&showTitle=false&size=51510&status=done&style=none&taskId=u4626a985-8287-4a8d-8aad-09fad125b19&title=&width=599.3333333333334)
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/33625181/1687161544168-a7343101-be0d-417e-8e01-c34a810d5c5f.png#averageHue=%23fcfcfb&clientId=u8c5280f2-7182-4&from=paste&height=267&id=u984c513b&originHeight=400&originWidth=1230&originalType=binary&ratio=1.5&rotation=0&showTitle=false&size=31451&status=done&style=none&taskId=u61cc00f4-297f-4795-8d08-7a9d22f15c5&title=&width=820)
