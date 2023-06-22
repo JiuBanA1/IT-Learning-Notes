@@ -9,7 +9,7 @@ Windows操作系统：
 ![屏幕截图 2023-06-17 232351.png](https://cdn.nlark.com/yuque/0/2023/png/33625181/1687015506517-7770c062-72b5-4995-a0d8-412e65185646.png#averageHue=%23f2f1eb&clientId=u8c5280f2-7182-4&from=paste&height=705&id=u811f2573&originHeight=1058&originWidth=1847&originalType=binary&ratio=1.5&rotation=0&showTitle=false&size=1071135&status=done&style=none&taskId=u352babff-cd77-4603-8bf6-eaac6e8d6bf&title=&width=1231.3333333333333)
 4、一旦下载完成，双击该安装程序文件，跟随安装向导的步骤。在安装过程中，你可以选择一些配置选项，但通常使用默认设置即可。
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/33625181/1687016344986-8315e34b-10b5-42c9-9a19-34c0303b7b31.png#averageHue=%23f1eeeb&clientId=u8c5280f2-7182-4&from=paste&height=380&id=u7f49068c&originHeight=570&originWidth=736&originalType=binary&ratio=1.5&rotation=0&showTitle=false&size=43256&status=done&style=none&taskId=ud88d82fe-b41e-4fd7-9882-dfe5d152995&title=&width=490.6666666666667)
-5、安装完成后，你可以通过Terminal或其他终端应用程序访问Git。
+5、安装完成后，你可以通过Terminal或其他终端应用程序访问Git；
 ## Git配置环境变量
 把git的bin 目录，路径完整加入系统变量，在cmd中输入git；
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/33625181/1687156925165-a30fd5bd-be03-4ab7-b497-56e940448216.png#averageHue=%23f2f2f1&clientId=u8c5280f2-7182-4&from=paste&height=161&id=u40ac5b2e&originHeight=241&originWidth=1014&originalType=binary&ratio=1.5&rotation=0&showTitle=false&size=12096&status=done&style=none&taskId=u5f00983f-e0ea-4d9a-bc2d-309c9790920&title=&width=676)
