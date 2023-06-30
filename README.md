@@ -19,7 +19,6 @@ If you find this project helpful, welcome Star!
 
 [![Stargazers over time](https://starchart.cc/JiuBanA1/Java-Engineer-s-Study-Guide.svg)](https://starchart.cc/JiuBanA1/Java-Engineer-s-Study-Guide)
 
-1
 
 
 
