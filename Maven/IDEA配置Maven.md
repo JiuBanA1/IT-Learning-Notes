@@ -1,5 +1,5 @@
 ## 前言
-配置好本地仓库，中央仓库这里是（阿里云）不然用的是国外的，速度很慢，在本地仓库里的依赖不够多的时候，大部分时候还得靠远程仓库
+配置好本地仓库，中央仓库这里是（阿里云）不然用的是国外的，速度很慢，在本地仓库里的依赖不够多的时候，大部分时候还得靠远程仓库；
 ## IDEA配置Maven环境
 Customize-->All settings
 Settings-->搜索 maven-->设置IDEA使用本地安装的Maven，并修改配置文件路径-->Apply—>OK；
@@ -19,15 +19,15 @@ Runner-->VM Options-->添加-DarchetypeCatalog=internal
 -DarchetypeCatalog=internal
 ```
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/33625181/1686886426147-cc82a535-9a7e-4fa4-b3ef-9682b2527685.png#averageHue=%233d4246&clientId=u17d20e20-90fb-4&from=paste&height=712&id=u335ff8d7&originHeight=1068&originWidth=1457&originalType=binary&ratio=1.5&rotation=0&showTitle=false&size=95430&status=done&style=none&taskId=uec54486f-c38d-43de-8365-8de497f296f&title=&width=971.3333333333334)
-## IDEA创建maven项目
-Projects-->New Project-->Maven Archetype-->maven-archetype-quickstart-->Create；
-![image.png](https://cdn.nlark.com/yuque/0/2023/png/33625181/1686883123981-3114f7e0-8dec-4d00-98b2-e011aad04bb5.png#averageHue=%233d4144&clientId=u9a9c727c-6740-4&from=paste&height=667&id=uff2955da&originHeight=1000&originWidth=1171&originalType=binary&ratio=1.5&rotation=0&showTitle=false&size=88774&status=done&style=none&taskId=u4fb7b75d-4fc9-4538-a6d0-458924c726a&title=&width=780.6666666666666)
-![image.png](https://cdn.nlark.com/yuque/0/2023/png/33625181/1686886856756-7f76250d-4d50-493a-9822-b7dbe71d319e.png#averageHue=%23526949&clientId=ued28158b-cb47-4&from=paste&height=800&id=u4a33436d&originHeight=1200&originWidth=1920&originalType=binary&ratio=1.5&rotation=0&showTitle=false&size=282790&status=done&style=none&taskId=u41720a18-6b8a-464d-9197-c2beeed0a8e&title=&width=1280)
+## IDEA创建maven项目（默认）
+Projects-->New Project-->Maven-->Create；
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/33625181/1688364666706-6735ba6c-50ad-4179-b360-a52286b199aa.png#averageHue=%233d4144&clientId=u11353864-72ca-4&from=paste&height=663&id=u5cd2adb4&originHeight=994&originWidth=1171&originalType=binary&ratio=1.5&rotation=0&showTitle=false&size=77826&status=done&style=none&taskId=u88d3ecc4-3c0d-454f-854b-a9ff7826393&title=&width=780.6666666666666)
 ## Archetype的选择说明
 简单的说，Archetype是Maven工程的模板工具包。一个Archetype定义了要做的相同类型事情的初始样式或模型。这个名称给我们提供来了一个一致的生成Maven工程的方式。Archetype会帮助作者给用户创建Maven工程模板，并给用户提供生成相关工程模板版本的参数化方法。
 ### 常用Archetype
-1、maven-archetype-quickstart（默认的Archetype）
-基本内容包括：一个包含junit依赖声明的pom.xml、src/main/java主代码目录及一个名为App的类、src/test/java测试代码目录及一个名为AppTest的测试用例；
-2、maven-archetype-webapp（简单的Java Web应用程序）
+maven-archetype-webapp（简单的Java Web应用程序）
 基本内容包括：一个packaging为war且带有junit依赖声明的pom.xml、src/main/webapp/目录、src/main/webapp/index.jsp文件、src/main/webapp/WEB-INF/web.xml文件；
+### IDEA创建maven项目（简单的Java Web应用程序）
+Projects-->New Project-->Maven Archetype-->maven-archetype-webapp-->Create；
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/33625181/1688364530668-2d24dc82-7a5f-465e-994b-4a653b6308ce.png#averageHue=%233d4245&clientId=u11353864-72ca-4&from=paste&height=652&id=u1ac965e4&originHeight=978&originWidth=1169&originalType=binary&ratio=1.5&rotation=0&showTitle=false&size=86823&status=done&style=none&taskId=u9c28bdf3-a9a9-4c2f-a249-cd39c1e22b5&title=&width=779.3333333333334)
 
