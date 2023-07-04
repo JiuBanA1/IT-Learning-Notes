@@ -12,7 +12,7 @@
 <localRepository>····<localRepository>中间内容替换成自己本地仓库的地址
 ```
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/33625181/1686813622597-a9dbdf9f-fe5d-4284-8377-d1ac20f3a5cf.png#averageHue=%23232120&clientId=u4615065e-a55c-4&from=paste&height=317&id=uce092bc2&originHeight=475&originWidth=1437&originalType=binary&ratio=1.5&rotation=0&showTitle=false&size=99191&status=done&style=none&taskId=u1aa181fa-7061-4efd-8aa1-78d94817801&title=&width=958)
-## Maven配置中央仓库
+## Maven配置远程仓库（公共或中央仓库）
 在 settings.xml 文件中配置仓库，下面是阿里云的中央仓库
 ```xml
 <mirror> 
@@ -27,23 +27,33 @@
 </mirror>
 ```
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/33625181/1686814885466-986a68fc-ee7c-4aac-9432-96c4ebe0f0fd.png#averageHue=%2320201f&clientId=u4615065e-a55c-4&from=paste&height=737&id=u8b4b52c6&originHeight=1105&originWidth=1920&originalType=binary&ratio=1.5&rotation=0&showTitle=false&size=264316&status=done&style=none&taskId=ua0b6e9ae-2870-40f4-8209-538c456a875&title=&width=1280)
-## Maven配置远程仓库
+## Maven配置远程仓库（私有）
 确保将上面的URL替换为您实际的远程仓库URL。
-```xml
-<repositories>
-  <repository>
-    <id>remote-repo</id>
-    <url>http://example.com/repository</url>
-  </repository>
-</repositories>
-```
 在Maven的settings.xml文件中配置认证信息，在<servers>标签内添加一个<server>子标签，确保**your-username**和**your-password**替换为实际的认证信息。
 ```xml
 <servers>
   <server>
     <id>remote-repo</id>
+    <url>http://example.com/repository</url>
     <username>your-username</username>
     <password>your-password</password>
   </server>
 </servers>
+```
+## 配置jdk
+找到<profiles></profile>标签，在里面添加以下代码，配置JDK的版本，要与安装的版本对应
+```xml
+ <profile>
+    <id>jdk-17</id>
+    <activation>
+        <activeByDefault>true</activeByDefault>
+        <jdk>17</jdk>
+    </activation>
+
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+        <maven.compiler.compilerVersion>17</maven.compiler.compilerVersion>
+    </properties>
+</profile>
 ```
