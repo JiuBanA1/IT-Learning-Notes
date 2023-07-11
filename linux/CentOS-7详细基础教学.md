@@ -13,7 +13,7 @@
    - 更新系统软件包：运行 **sudo yum update** 命令。
    - 配置防火墙：使用 **firewall-cmd** 命令管理防火墙规则。
    - 设置 SELinux：可以使用 **semanage** 命令或编辑 **/etc/selinux/config** 文件来配置 SELinux。
-### 包管理：
+### 包管理
 
    - 安装软件包：使用 **yum install** 命令安装软件包，例如 **sudo yum install package_name**。
    - 升级软件包：运行 **sudo yum update** 命令升级已安装的软件包。
