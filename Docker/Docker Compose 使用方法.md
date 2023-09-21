@@ -3,7 +3,7 @@ Docker Compose 是一个工具，旨在帮助定义和 共享多容器应用程�
 使用 Compose 的最大优点是您可以在文件中定义应用程序堆栈，并将其保留在 您的项目存储库（现在受版本控制），并轻松使其他人能够参与您的项目。 有人只需要克隆你的存储库并启动撰写应用程序。
 ## 安装 Docker Compose
 如果你安装了适用于 Windows、或 Linux 的 Docker 桌面，那么您已经拥有 Docker Compose！ 
-Linux 如果不是 Docker 桌面，可以使用存储库安装与更新；
+Linux 如果不是 Docker 桌面，可以使用存储库安装与更新
 ### Ubuntu 安装与更新
 ```
 #安装
