@@ -9,7 +9,7 @@
 
 如果你觉得这个项目有帮助，欢迎Star!
 
-The road to self-learning is long and long, only by constantly summarizing, constantly recalling, and constantly sharing, can we grow!！
+The road to self-learning is long and long, only by constantly summarizing, constantly recalling, and constantly sharing, can we grow!
 
 Although there are still many shortcomings, I will continue to output and gradually improve!
 
